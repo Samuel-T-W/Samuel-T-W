@@ -1,4 +1,13 @@
-## Hi, I'm Sami
+## Hi, I'm Sami 👋
+
+MS CS student at UMass Amherst, prev SWE @ Meta & Bloomberg.
+Interested in database internals, distributed systems, and backend infrastructure.
+
+🔭 Currently working on: 
+  - TickerFlow - a real time stock dashboard
+  - AmharicHelper - Amharic NLP tooling
+
+🌱 Currently learning: database internals, system design 
 
 <!--
 **Samuel-T-W/Samuel-T-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
