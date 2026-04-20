@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Sami
 
 <!--
 **Samuel-T-W/Samuel-T-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
