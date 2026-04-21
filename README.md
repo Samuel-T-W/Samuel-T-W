@@ -1,6 +1,6 @@
 ## Hi, I'm Sami
 
-MS CS student at UMass Amherst, prev SWE @ Meta & Bloomberg.
+MS CS student at UMass Amherst.
 Interested in database internals, distributed systems, and backend infrastructure.
 
 🔭 Currently working on: 
