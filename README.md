@@ -5,8 +5,6 @@ Interested in database internals, distributed systems, and backend infrastructur
 
 🔭 Currently working on: 
   - ReDB:  a database implementation from scratch.
-  - TickerFlow:  a real time stock dashboard
-  - AmharicHelper: Amharic NLP tooling
 
 🌱 Currently learning: database internals, system design 
 
