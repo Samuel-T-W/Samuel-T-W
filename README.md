@@ -4,8 +4,9 @@ MS CS student at UMass Amherst.
 Interested in database internals, distributed systems, and backend infrastructure.
 
 🔭 Currently working on: 
-  - TickerFlow - a real time stock dashboard
-  - AmharicHelper - Amharic NLP tooling
+  - ReDB:  a database implementation from scratch.
+  - TickerFlow:  a real time stock dashboard
+  - AmharicHelper: Amharic NLP tooling
 
 🌱 Currently learning: database internals, system design 
 
